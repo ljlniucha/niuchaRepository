@@ -1,0 +1,6 @@
+server:
+  port: 80
+  servlet:
+    context-parameters: /demo2
+file:
+  path: d:/spring
