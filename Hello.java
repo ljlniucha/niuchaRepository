@@ -5,7 +5,7 @@ public class Hello {
 
 		System.out.println("hello xiaowang");
       	System.out.println("hello xiaofang");
-        int i = 10;
+        int i = 5;
         System.out.println(i);
 
     }

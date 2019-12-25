@@ -1,2 +1,0 @@
-# niuchaRepository
-nouser
